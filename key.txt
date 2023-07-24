@@ -1,0 +1,49 @@
+F1 = first formant in synthesized vowel sound
+F2 = second formant in synthesized vowel sound
+f0 = fundamental frequency in synthesized vowel sound
+
+The resulting vowel space does not include quantal vowel 
+the most common phonemes observed across human spoken 
+languages (Maddieson, 1984; Moran & McCloy, 2019; Stevens, 
+1989; see also Liljencrants & Lindblom, 1972). 
+
+For macaque vowels, correspondence to human vowel is 
+approximate. 
+________________
+
+human_quantal_a.wav
+F1 = 950
+F2 = 1280
+f0 = 100
+corresponds to human vowel: [ɑ]
+
+macaque_closest_a.wav
+F1 = 880
+F2 = 1490
+f0 = 100
+corresponds to human vowel: [ɑ] / [ɒ]
+
+human_quantal_i.wav
+F1 = 290
+F2 = 2700
+f0 = 100
+corresponds to human vowel: [i]
+
+macaque_closest_i.wav
+F1 = 500
+F2 = 2250
+f0 = 100
+corresponds to human vowel: [ɪ]
+
+human_quantal_u.wav
+F1 = 330
+F2 = 750
+f0 = 100
+corresponds to human vowel: [u]
+
+macaque_closest_u.wav
+F1 = 520
+F2 = 1300
+f0 = 100
+corresponds to human vowel: [ɘ]
+
